@@ -1,3 +1,4 @@
 # pagina-web
 Este es el repositorio de una pagina de ejemplo para probar GIT.
-Agreguemos esta línea para ver como se hacen las cosas por línea de comandos.
+Agreguemos esta lÃ­nea para ver como se hacen las cosas por lÃ­nea de comandos.
+Tercera lÃ­nea modificada desde el master en la web.
